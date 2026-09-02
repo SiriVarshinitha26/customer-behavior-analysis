@@ -49,7 +49,7 @@ The dataset contains 250,000 customer transactions with information such as:
 ## Files
 
 - `Customer_Behavior_Analysis.ipynb` – Complete analysis and visualizations
-- `Customer_Behavior_Analysis_Report.pdf` – Project report
+- `Task1.pdf` – Project report
 
 ## Key Objective
 
